@@ -281,3 +281,7 @@ For issues or questions:
 - Real-time data updates
 - User authentication
 - Database integration for persistent storage
+<img width="1315" height="681" alt="Screenshot (793)" src="https://github.com/user-attachments/assets/019bcc12-d6c8-47b8-86cb-17a65b6e3634" />
+
+<img width="1366" height="677" alt="Screenshot (794)" src="https://github.com/user-attachments/assets/b45b203f-621d-405f-8d08-8d13f6acda71" />
+
